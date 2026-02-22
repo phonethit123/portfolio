@@ -152,7 +152,7 @@ export default function Home() {
             <h2>Career path</h2>
             <div className="timeline milestones">
               <article className="timeline-item">
-                <p className="timeline-date-pill">Nov 2024 - Present</p>
+                <p className="timeline-date-pill">Nov 2025 - Present</p>
                 <div className="timeline-content">
                   <h3>C# Developer</h3>
                   <p className="timeline-company">
